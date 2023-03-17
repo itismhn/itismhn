@@ -8,3 +8,5 @@
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/itismhn)
 ---
 
+![itisMHN's Github Stats](https://github-readme-stats.vercel.app/api?username=itismhn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itismhn=TeX&layout=compact)
