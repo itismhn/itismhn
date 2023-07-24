@@ -5,7 +5,7 @@
 - To contact me send an email to itismhn[at]yahoo.com.
 ---
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]((https://linkedin.com/in/itismhn))
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/itismhn)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)]((https://twitter.com/itismhn))
 ---
 
 ![itisMHN's Github Stats](https://github-readme-stats.vercel.app/api?username=itismhn&count_private=true&show_icons=true&include_all_commits=true)
