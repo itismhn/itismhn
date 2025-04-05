@@ -1,8 +1,11 @@
-# Hi, itis Mohammad Hossein
-#### Cyber Security Analyst and Penetration Tester
-- I'm a 22 y.o with 3 years experienced in Cyber Security fields
-- graduated in a software engineering major and interested in penetration testing, programming, and cyber security
-- To contact me send an email to itismhn[at]yahoo[dot]com.
+## 👋 Hi, I'm Mohammad Hossein  
+### Cybersecurity Analyst & Penetration Tester
+
+- Born in 2001, with 4+ years of hands-on experience in cybersecurity  
+- Background in Software Engineering, passionate about **penetration testing**, **programming**, and all things **cybersecurity**  
+- Always eager to learn, break, build, and secure systems  
+
+📬 Feel free to reach out: `itismhn[at]yahoo[dot]com`
 
 <h3 align="center">Connect with me and know about my experience:</h3>
 <p align="center">
