@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I am a **Cybersecurity Analyst** and **Penetration Tester** with **4+ years of hands-on experience** in offensive security, vulnerability assessment, and secure software practices.
+I am a **Cybersecurity Analyst** and **Penetration Tester** with **6+ years of hands-on experience** in offensive security, vulnerability assessment, and secure software practices.
 
 With a background in **Software Engineering**, I combine programming knowledge with security expertise to identify weaknesses, understand attack surfaces, and help build more resilient systems.
 
