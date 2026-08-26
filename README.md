@@ -78,6 +78,24 @@ I am passionate about:
 
 ---
 
+## 🎯 Featured Project
+
+### [NouriSec VulnerShop](https://github.com/itismhn/nourisec-vulnershop)
+
+An open-source, deliberately vulnerable e-commerce app I built as the hands-on lab for
+my pentesting course. A real Flask storefront wired with **11 intentional bugs**
+(SQL injection, XSS, IDOR, CSRF, SSRF, command injection, and more), each mapped to the
+OWASP WSTG methodology and OWASP Top 10 — with a staged student lab guide, tiered
+hints, and a full instructor answer key.
+
+<p>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/flask-3.0-black?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-WSTG%20%2F%20Top%2010-black?style=flat-square" />
+</p>
+
+---
+
 ## 📌 Current Interests
 
 - Advanced Web Exploitation
